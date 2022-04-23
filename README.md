@@ -1,1 +1,3 @@
-# xd_mysqli
+# MySQLi 💻
+
+> PHP mysqli methods and connection examples
